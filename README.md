@@ -6,10 +6,5 @@ A very simple Python script which looks at a csv and checks for matching records
 3. Change the directories to your relevant filenames and locations
 4. Run, and find the ouput file called: update.txt
 
- __         __
-/  \.-"""-./  \
-\    -   -    /
- |   o   o   |
- \  .-'''-.  /
-  '-\__Y__/-'
-     `---`
+
+ʕ•ᴥ•ʔ
